@@ -19,24 +19,7 @@ Each topic has its own folder containing code, notes, and exercises.
 
 ---
 
-## 🚀 Learning Roadmap  
 
-✔️ = Completed | 🛠️ = In Progress | ⏳ = Upcoming  
-
-### Java  
-- [✔️] Basics & Syntax  
-- [🛠️] OOP Concepts  
-- [⏳] Collections Framework  
-
-### Python  
-- [✔️] Data Types & Structures  
-- [🛠️] OOP in Python  
-
-### DSA  
-- [✔️] Searching & Sorting  
-- [🛠️] Linked Lists  
-
----
 
 ## 📊 GitHub Stats  
 
