@@ -19,12 +19,6 @@ Each topic has its own folder containing code, notes, and exercises.
 
 ---
 
-
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaSrinivas-24&show_icons=true&theme=radical)  
-
 ---
 
 ## 📢 Stay Connected  
