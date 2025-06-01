@@ -33,7 +33,7 @@ I'll update this as I go:
 
 ## 📊 Tracker Sheet
 
-> 🔗 [DSA Google Sheet Tracker](#) — *(Link will be added after setup)*
+> 🔗 [DSA Google Sheet Tracker](#) — *(Link will be added after I it setup )*
 
 ---
 
